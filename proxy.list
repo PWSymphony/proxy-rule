@@ -1,0 +1,109 @@
+# 哔哩哔哩 PCDN 拦截
+DOMAIN-WILDCARD,*pcdn*.biliapi.net,REJECT
+DOMAIN-SUFFIX,mcdn.bilivideo.cn,REJECT
+DOMAIN-SUFFIX,mcdn.bilivideo.com,REJECT
+DOMAIN-SUFFIX,szbdyd.com,REJECT
+DOMAIN-SUFFIX,mountaintoys.cn,REJECT
+
+# Muse
+DOMAIN-SUFFIX,muse.ai,node
+
+# 旅行
+DOMAIN-SUFFIX,airasia.com,node
+DOMAIN-SUFFIX,agoda.com,DIRECT
+DOMAIN-SUFFIX,agoda.net,DIRECT
+DOMAIN-SUFFIX,agoda-emails.com,DIRECT
+
+# 1024
+DOMAIN-SUFFIX,1024.day,node
+
+# LinkedIn
+DOMAIN-SUFFIX,linkedin.com,node
+DOMAIN-SUFFIX,licdn.com,node
+DOMAIN-SUFFIX,lnkd.in,node
+
+# Seeking Alpha
+DOMAIN-SUFFIX,seekingalpha.com,node
+
+# Google / Gemini / Google Cloud / Google Play
+DOMAIN-SUFFIX,googleapis.com,node
+DOMAIN-SUFFIX,gstatic.com,node
+DOMAIN-SUFFIX,googleusercontent.com,node
+DOMAIN-SUFFIX,ggpht.com,node
+
+# OpenAI / ChatGPT
+DOMAIN-SUFFIX,openai.com,node
+DOMAIN-SUFFIX,chatgpt.com,node
+DOMAIN-SUFFIX,oaistatic.com,node
+DOMAIN-SUFFIX,oaiusercontent.com,node
+
+# xAI / Grok
+DOMAIN-SUFFIX,x.ai,node
+DOMAIN-SUFFIX,grok.com,node
+
+# Telegram
+DOMAIN-SUFFIX,telegram.org,node
+DOMAIN-SUFFIX,telegram.me,node
+DOMAIN-SUFFIX,t.me,node
+
+# TradingView
+DOMAIN-SUFFIX,tradingview.com,node
+
+# Longbridge
+DOMAIN-SUFFIX,lbkrs.com,node
+DOMAIN-SUFFIX,longbridge.app,node
+DOMAIN-SUFFIX,longbridge.global,node
+DOMAIN-SUFFIX,longportapp.com,node
+DOMAIN-SUFFIX,longbridge.com,node
+
+# OKX
+DOMAIN-SUFFIX,okx.com,node
+# OKX 邮件退订及活动链接
+DOMAIN-SUFFIX,ct.sendgrid.net,node
+
+# Cryptomus
+DOMAIN-SUFFIX,cryptomus.com,node
+
+# Grab
+DOMAIN-SUFFIX,grab.com,node
+DOMAIN-SUFFIX,grabcdn.com,node
+
+# DeviantArt
+DOMAIN-SUFFIX,deviantart.com,node
+DOMAIN-SUFFIX,deviantart.net,node
+
+# Patreon
+DOMAIN-SUFFIX,patreon.com,node
+DOMAIN-SUFFIX,patreonusercontent.com,node
+
+# Vultr
+DOMAIN-SUFFIX,vultr.com,node
+
+# BestBlogs
+DOMAIN-SUFFIX,bestblogs.dev,node
+
+# 动漫
+DOMAIN-SUFFIX,mikanani.me,node
+DOMAIN-SUFFIX,hanime1.me,node
+
+# X / Twitter 短链接
+DOMAIN-SUFFIX,t.co,node
+
+# Arena
+DOMAIN-KEYWORD,arena,node
+
+# 淘宝 / 天猫 / 阿里系直连
+DOMAIN-SUFFIX,taobao.com,DIRECT
+DOMAIN-SUFFIX,tmall.com,DIRECT
+DOMAIN-SUFFIX,alicdn.com,DIRECT
+DOMAIN-SUFFIX,taobaocdn.com,DIRECT
+DOMAIN-SUFFIX,tbcdn.cn,DIRECT
+DOMAIN-SUFFIX,mmstat.com,DIRECT
+DOMAIN-SUFFIX,alibabausercontent.com,DIRECT
+DOMAIN-SUFFIX,aliyuncs.com,DIRECT
+DOMAIN-SUFFIX,alipay.com,DIRECT
+DOMAIN-SUFFIX,cainiao.com,DIRECT
+DOMAIN-SUFFIX,1688.com,DIRECT
+DOMAIN-SUFFIX,alimama.com,DIRECT
+DOMAIN-SUFFIX,etao.com,DIRECT
+DOMAIN-SUFFIX,fliggy.com,DIRECT
