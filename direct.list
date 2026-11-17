@@ -1,0 +1,20 @@
+# 旅行
+DOMAIN-SUFFIX,agoda.com
+DOMAIN-SUFFIX,agoda.net
+DOMAIN-SUFFIX,agoda-emails.com
+
+# 淘宝 / 天猫 / 阿里系直连
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,tbcdn.cn
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,etao.com
+DOMAIN-SUFFIX,fliggy.com
