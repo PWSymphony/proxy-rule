@@ -39,13 +39,6 @@ DOMAIN-SUFFIX,t.me
 # TradingView
 DOMAIN-SUFFIX,tradingview.com
 
-# Longbridge
-DOMAIN-SUFFIX,lbkrs.com
-DOMAIN-SUFFIX,longbridge.app
-DOMAIN-SUFFIX,longbridge.global
-DOMAIN-SUFFIX,longportapp.com
-DOMAIN-SUFFIX,longbridge.com
-
 # OKX
 DOMAIN-SUFFIX,okx.com
 # OKX 邮件退订及活动链接
