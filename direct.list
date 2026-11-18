@@ -18,3 +18,21 @@ DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,alimama.com
 DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,fliggy.com
+
+# 5dm.link
+DOMAIN-SUFFIX,5dm.link
+
+# Steam
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steampipe.akamaized.net
+
+# Microsoft / Windows
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msftconnecttest.com
