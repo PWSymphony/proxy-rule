@@ -74,3 +74,9 @@ DOMAIN-SUFFIX,t.co
 
 # Arena
 DOMAIN-KEYWORD,arena
+
+# GitHub
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,github.io
